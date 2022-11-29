@@ -133,7 +133,6 @@ body {
 }
 
 .heading-primary,
-<<<<<<< HEAD
 .heading-secondary {
   /* letter-spacing: -0.5px; */
   color: #ffffff;
@@ -158,34 +157,6 @@ body {
   line-height: 1.2;
   margin-bottom: 3.2rem;
 } */
-=======
-.heading-secondary,
-.heading-tertiary {
-  font-weight: 700;
-  color: #333;
-  /* color: #45260a; */
-  /* color: #343a40; */
-  letter-spacing: -0.5px;
-}
-
-.heading-primary {
-  font-size: 5.2rem;
-  line-height: 1.05;
-  margin-bottom: 3.2rem;
-}
-
-.heading-secondary {
-  font-size: 4.4rem;
-  line-height: 1.2;
-  margin-bottom: 9.6rem;
-}
-
-.heading-tertiary {
-  font-size: 3rem;
-  line-height: 1.2;
-  margin-bottom: 3.2rem;
-}
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 
 .subheading {
   display: block;
@@ -261,10 +232,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 3.2rem 1.2rem 1.2rem;
-<<<<<<< HEAD
-=======
-  padding-left: 1.2rem;
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 }
 
 .header-logo {
@@ -274,11 +241,7 @@ body {
 
 .company-title {
   color: #7cee88;
-<<<<<<< HEAD
   font-size: 3.6rem;
-=======
-  font-size: 4rem;
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
   font-weight: 700;
   line-height: 1.2;
 }
@@ -344,85 +307,31 @@ body {
   height: 48rem;
 }
 
-<<<<<<< HEAD
-=======
-/* .intro-images img {
-  width: 24rem;
-  height: 48rem;
-  margin-right: -10rem;
-} */
-
-/* .mobile-left {
-  filter: drop-shadow(0px 3.2613px 3.2613px rgba(0, 0, 0, 0.25));
-  transform: rotate(-10deg);
-}
-
-.mobile-middle {
-  filter: drop-shadow(0px 3.63387px 3.63387px rgba(0, 0, 0, 0.25));
-}
-
-.mobile-right {
-  filter: drop-shadow(0px 3.2613px 3.2613px rgba(0, 0, 0, 0.25));
-  transform: rotate(10deg);
-} */
-
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 /* Section rituals */
 .rituals {
   background-color: #18181c;
   display: flex;
-<<<<<<< HEAD
   gap: 2.4rem;
   justify-content: space-between;
-=======
-  gap: 4.4rem;
-  /* justify-content: space-between; */
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
   align-items: center;
   padding: 4.8rem;
 }
 
-<<<<<<< HEAD
 .ritual-image {
   margin-left: 10rem;
 }
-=======
-/* .ritual-images {
-  display: flex;
-} */
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 
 .ritual-image img {
   width: 44rem;
   height: 54rem;
-<<<<<<< HEAD
   transition: all 0.4s;
   filter: drop-shadow(0px 4.2387px 4.2387px rgba(0, 0, 0, 0.25));
-=======
-  /* margin-right: -10rem; */
-  /* display: block; */
-  /* width: 100%; */
-  transition: all 0.4s;
-  filter: drop-shadow(0px 4.2387px 4.2387px rgba(0, 0, 0, 0.25));
-  margin-left: 4.8rem;
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 }
 
 .ritual-image img:hover {
   transform: scale(1.03);
 }
 
-<<<<<<< HEAD
-=======
-/* .ritual-left-img {
-  filter: drop-shadow(0px 4.2387px 4.2387px rgba(0, 0, 0, 0.25));
-}
-
-.ritual-right-img {
-  filter: drop-shadow(0px 4.2387px 4.2387px rgba(0, 0, 0, 0.25));
-} */
-
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 .ritual-text {
   width: 50%;
   color: #aaaaaa;
@@ -697,22 +606,14 @@ body {
   line-height: 1.5;
 }
 
-<<<<<<< HEAD
 /* .privacy h2,
-=======
-.privacy h2,
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 .terms h2 {
   color: #ffffff;
   font-style: normal;
   font-weight: 600;
   font-size: 3.5rem;
   line-height: 1.1;
-<<<<<<< HEAD
 } */
-=======
-}
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 
 .privacy div,
 .terms div {
@@ -791,22 +692,12 @@ li p {
 }
 
 .footer-logo {
-<<<<<<< HEAD
   /* display: block; */
-=======
-  display: block;
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
   /* margin-bottom: 3.2rem; */
 }
 
 .logo {
-<<<<<<< HEAD
   width: 7rem;
-=======
-  width: 12rem;
-  margin-right: -2.4rem;
-  padding: 1.2rem;
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 }
 
 .social-links {
@@ -882,10 +773,6 @@ li p {
   border-radius: 2.4rem;
   display: flex;
   flex-direction: column;
-<<<<<<< HEAD
-=======
-  /* align-items: center; */
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
   gap: 3.2rem;
 }
 
@@ -893,10 +780,6 @@ li p {
   color: #1fd660;
   font-size: 5rem;
   font-weight: 700;
-<<<<<<< HEAD
-=======
-  /* line-height: 1.2; */
->>>>>>> 2e6f3c1b6d422ce35c938798272655982eac60f4
 }
 
 .download-container h3 {
