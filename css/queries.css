@@ -13,17 +13,17 @@
     font-size: 4rem;
   }
 
-  .rituals {
-    padding: 6.4rem;
+  .invent {
+    padding: 8.6rem 16rem;
+  }
+
+  .ritual-image {
+    margin-left: 6.4rem;
   }
 
   .ritual-image {
     margin-left: 12rem;
-  }
-
-  .ritual-image img {
-    width: 54rem;
-    height: 60rem;
+    /* margin-right: 3.2rem; */
   }
 
   .download-container {
@@ -57,18 +57,14 @@
     padding: 5.6rem;
   }
 
-  .ritual-image {
-    margin-left: 10rem;
-  }
-
-  .ritual-image img {
-    width: 52rem;
-    height: 60rem;
-  }
-
   .ritual-text {
     width: 50%;
     gap: 2.4rem;
+  }
+
+  .ritual-image {
+    margin-left: 4rem;
+    /* margin-right: 3.2rem; */
   }
 
   .download-container {
@@ -143,7 +139,7 @@
   .intro-image {
     /* width: 78rem;
     height: 52rem; */
-    width: 100%;
+    /* width: 100%; */
   }
 
   .hobby-images,
@@ -266,10 +262,10 @@
     font-weight: 700;
   }
 
-  .company-title {
+  /* .company-title {
     font-size: 2.6rem;
     margin-left: -1.4rem;
-  }
+  } */
 
   .footer-nav {
     margin-left: 0;
